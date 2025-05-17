@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(17,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(17,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(17,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(38,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(39,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(61,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(113,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(121,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADITHYAN\source\repos\Pong_Game\Pong_Game\src\main.cpp(125,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong_Game.vcxproj -> C:\Users\ADITHYAN\source\repos\Pong_Game\x64\Debug\Pong_Game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
