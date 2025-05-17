@@ -4,7 +4,7 @@ A retro-style Pong arcade game implementation using **Raylib** and **C++**. This
 
 A modern implementation of the classic Pong arcade game using Raylib in C++. Features player vs CPU gameplay with score tracking and dynamic ball physics.
 
-![Game Screenshot](Screenshot%202025-05-17%20152344.png)
+![Game Screenshot]("C:\Users\ADITHYAN\Pictures\Screenshots\Screenshot 2025-05-17 152344.png")
 
 ## Features
 - 🕹️ Player-controlled paddle (Right side)
@@ -32,11 +32,6 @@ A modern implementation of the classic Pong arcade game using Raylib in C++. Fea
 ```bash
 git clone https://github.com/your-username/pong-game.git
 cd pong-game
-
-
-OUTPUT:
-![Screenshot 2025-05-17 152344](https://github.com/user-attachments/assets/3d75a55f-bb0e-4fb4-9dab-b0a373c36279)
-
 
 Gameplay Mechanics
 Score points by getting the ball past opponent's paddle
