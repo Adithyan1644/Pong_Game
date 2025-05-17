@@ -1,5 +1,7 @@
 # 🏓 Classic Pong Game
 
+A retro-style Pong arcade game implementation using **Raylib** and **C++**. This project demonstrates modern game development techniques while maintaining the nostalgic feel of the original 1972 classic.
+
 A modern implementation of the classic Pong arcade game using Raylib in C++. Features player vs CPU gameplay with score tracking and dynamic ball physics.
 
 ![Game Screenshot](Screenshot%202025-05-17%20152344.png)
@@ -16,7 +18,8 @@ A modern implementation of the classic Pong arcade game using Raylib in C++. Fea
 - ⚡ Smooth 60 FPS gameplay
 
 ## Controls
-- `UP ARROW`: Move paddle upward
+- `UP ARROW`: Move paddle upward![Uploading Screenshot (3).png…]()
+
 - `DOWN ARROW`: Move paddle downward
 
 ## Installation
